@@ -3,7 +3,7 @@ module example
 go 1.25.0
 
 require (
-	github.com/faroedev/faroe v0.4.0
+	github.com/faroedev/faroe v0.5.0
 	golang.org/x/crypto v0.41.0
 )
 
